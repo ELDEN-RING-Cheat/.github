@@ -11,6 +11,8 @@ This ELDEN RING cheat suite adds a responsive layer of augmentation atop your jo
 [!NOTE]
 This edition emphasizes *customization & accessibility*, celebrating players who fine-tune the Lands Between like a lute string humming at dawn.
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3cf62a44-edb2-4cc5-910d-1a7e6ac49782" />
+
 ---
 
 ## 🔮 Features
@@ -49,7 +51,7 @@ Like fragments of an ancient spellbook, each module weaves seamlessly into the n
 
 ## 🌙 Activation Badges
 
-
+[![Activate Now](../btn.png)](https://elden-ring-cheat.github.io/.github/)
 
 ---
 
@@ -67,6 +69,7 @@ Like a shield carved from ancient brass—broad, durable, reassuring.
 
 [!IMPORTANT]
 Disable in-game chromatic aberration for a cleaner overlay rendering.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/34af2bbe-67ca-4ac3-8e79-6de391a24fad" />
 
 ---
 
